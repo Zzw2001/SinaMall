@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3122277 */
+  src: url('iconfont.woff2?t=1641456024747') format('woff2'),
+       url('iconfont.woff?t=1641456024747') format('woff'),
+       url('iconfont.ttf?t=1641456024747') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhifubaodanse:before {
+  content: "\e68c";
+}
+
+.icon-zhifubao4:before {
+  content: "\e663";
+}
+
+.icon-zhifubao:before {
+  content: "\e65d";
+  /* background-color: lightblue; */
+  color: #00A0E9;/*支付宝颜色*/
+}
+
+.icon-zhifubao1:before {
+  content: "\e60a";
+}
+
+.icon-zhifubao2:before {
+  content: "\e68a";
+}
+
+.icon-zhifubao3:before {
+  content: "\e607";
+}
+
+.icon-yinhanglogo-:before {
+  content: "\e97d";
+}
+
+.icon-zhongguominshengyinhang:before {
+  content: "\e661";
+}
+
+.icon-zhongguonongyeyinhang:before {
+  content: "\e662";
+}
+
+.icon-minshengyinhang:before {
+  content: "\e60b";
+}
+
+.icon-nongyeyinhang:before {
+  content: "\e60c";
+}
+
+.icon-yinlian:before {
+  content: "\e68b";
+  font-size: 18px;
+  color: #00A0E9;
+}
+
+.icon-jiansheyinhang:before {
+  content: "\e612";
+}
+
+.icon-zhongguominshengyinhang1:before {
+  content: "\e619";
+}
+
+.icon-jiansheyinhang1:before {
+  content: "\e6b7";
+}
+
+.icon-zhifu-yinlian:before {
+  content: "\e6bd";
+  color: #00A0E9;
+  /* color: red; */
+}
+
